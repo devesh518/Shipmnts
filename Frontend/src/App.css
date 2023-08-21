@@ -5,6 +5,12 @@
   text-align: center;
 }
 
+
+  body{
+    background-color: #E4D9D9;
+    height: 100%;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
