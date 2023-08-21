@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <div className="card" style={{ width: "25rem" }}>
+      <div className="card shadow p-3 mb-5 bg-body-tertiary rounded" style={{ width: "25rem" }}>
         <div className="card-body">
           <h5 className="card-title">Search Weather</h5>
           <p className="card-text rounded">Write the name of the City/Pincode/Zip Code</p>
